@@ -1,0 +1,10 @@
+name:
+  - delphes-analysis-py311
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - cxx-compiler=1.7.0
+  - clang-format=18.1.5
+  - meson=1.4.0
+  - root=6.30.4

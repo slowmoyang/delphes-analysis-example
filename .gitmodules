@@ -1,0 +1,7 @@
+[submodule "delphes"]
+	path = delphes
+	url = git@github.com:slowmoyang/delphes.git
+	branch = delphes-config_from-3.5.0
+[submodule "analysis/subprojects/delphes_tools"]
+	path = analysis/subprojects/delphes_tools
+	url = git@github.com:slowmoyang/delphes_tools.git
