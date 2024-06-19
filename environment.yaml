@@ -1,5 +1,4 @@
-name:
-  - delphes-analysis-py311
+name: delphes-analysis-py311
 channels:
   - conda-forge
 dependencies:
